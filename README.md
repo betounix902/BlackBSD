@@ -42,3 +42,12 @@ The BlackBSD project is always looking for talented individuals to contribute to
  
 
 if you want to contribute to the BlackBSD project please get in touch.
+
+silas_www1 -at- silas -dot- net -dot- br
+
+betounix@protonmail.com
+
+
+
+
+
