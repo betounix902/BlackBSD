@@ -32,6 +32,7 @@ Rapid7 - Vulnerability verification http://www.rapid7.com/
 Hyperfox - security auditing tool http://hyperfox.org
 
 WireShark - Wireless Cracker
+https://www.wireshark.org
 
 Organization
 The project has a Core Team, similar to the other various BSD projects. We are currently seeking contributors for all aspects of the project, and additions to the Core Team will be chosen from the most active contributors. One of the initial Core Team's first action items is to establish the rules for how future Core Team and project members will be selected.
@@ -45,7 +46,11 @@ if you want to contribute to the BlackBSD project please get in touch.
 
 silas_www1 -at- silas -dot- net -dot- br
 
-betounix@protonmail.com
+betounix -at- protonmail -dot- com
+
+
+
+
 
 
 
